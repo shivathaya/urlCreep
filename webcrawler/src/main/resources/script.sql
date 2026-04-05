@@ -1,2 +1,4 @@
 --script file for initialization scripts.
 --Can add the scripts here that will run on application startup
+--this is s example for stash operation
+--in git
